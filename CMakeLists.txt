@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 3.19)
+project(Q_M_Method)
+find_package(libfort)
+add_executable(Q_M_Method main.cc)
+target_link_libraries(Q_M_Method PRIVATE libfort::fort)

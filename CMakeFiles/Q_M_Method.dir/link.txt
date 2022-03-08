@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/Q_M_Method.dir/main.cc.o -o Q_M_Method  /usr/local/lib64/libfort.a 
